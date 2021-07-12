@@ -1,0 +1,611 @@
+{
+  "lAggId": 1,
+  "applicationId": {
+    "applicationId": 1177,
+    "applicationDate": "2021-06-29",
+    "loanAppliedAmount": 100000,
+    "status": "ADMIN_APPROVED",
+    "typeOfProperty": null,
+    "areaOfProperty": "home",
+    "addressOfProperty": "N-4 Cidcos"
+  },
+  "emidetails": {
+    "emiDetailsId": 120,
+    "emiDetailsAmount": 1856.6666666666665,
+    "firstDueDate": "2021-07-15",
+    "dateOfAgreement": "2021-06-15",
+    "loanApprovedAmount": 100000,
+    "tenure": 84,
+    "rateOfInterest": 8
+  },
+  "emi": [
+    {
+      "dueDate": "2021-08-15",
+      "loanAmount": 98810,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 121
+    },
+    {
+      "dueDate": "2021-09-15",
+      "loanAmount": 97620,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 122
+    },
+    {
+      "dueDate": "2021-10-15",
+      "loanAmount": 96430,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 123
+    },
+    {
+      "dueDate": "2021-11-15",
+      "loanAmount": 95240,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 124
+    },
+    {
+      "dueDate": "2021-12-15",
+      "loanAmount": 94050,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 125
+    },
+    {
+      "dueDate": "2022-01-15",
+      "loanAmount": 92860,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 126
+    },
+    {
+      "dueDate": "2022-02-15",
+      "loanAmount": 91670,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 127
+    },
+    {
+      "dueDate": "2022-03-15",
+      "loanAmount": 90480,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 128
+    },
+    {
+      "dueDate": "2022-04-15",
+      "loanAmount": 89290,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 129
+    },
+    {
+      "dueDate": "2022-05-15",
+      "loanAmount": 88100,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 130
+    },
+    {
+      "dueDate": "2022-06-15",
+      "loanAmount": 86910,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 131
+    },
+    {
+      "dueDate": "2022-07-15",
+      "loanAmount": 85720,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 132
+    },
+    {
+      "dueDate": "2022-08-15",
+      "loanAmount": 84530,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 133
+    },
+    {
+      "dueDate": "2022-09-15",
+      "loanAmount": 83340,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 134
+    },
+    {
+      "dueDate": "2022-10-15",
+      "loanAmount": 82150,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 135
+    },
+    {
+      "dueDate": "2022-11-15",
+      "loanAmount": 80960,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 136
+    },
+    {
+      "dueDate": "2022-12-15",
+      "loanAmount": 79770,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 137
+    },
+    {
+      "dueDate": "2023-01-15",
+      "loanAmount": 78580,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 138
+    },
+    {
+      "dueDate": "2023-02-15",
+      "loanAmount": 77390,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 139
+    },
+    {
+      "dueDate": "2023-03-15",
+      "loanAmount": 76200,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 140
+    },
+    {
+      "dueDate": "2023-04-15",
+      "loanAmount": 75010,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 141
+    },
+    {
+      "dueDate": "2023-05-15",
+      "loanAmount": 73820,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 142
+    },
+    {
+      "dueDate": "2023-06-15",
+      "loanAmount": 72630,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 143
+    },
+    {
+      "dueDate": "2023-07-15",
+      "loanAmount": 71440,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 144
+    },
+    {
+      "dueDate": "2023-08-15",
+      "loanAmount": 70250,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 145
+    },
+    {
+      "dueDate": "2023-09-15",
+      "loanAmount": 69060,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 146
+    },
+    {
+      "dueDate": "2023-10-15",
+      "loanAmount": 67870,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 147
+    },
+    {
+      "dueDate": "2023-11-15",
+      "loanAmount": 66680,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 148
+    },
+    {
+      "dueDate": "2023-12-15",
+      "loanAmount": 65490,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 149
+    },
+    {
+      "dueDate": "2024-01-15",
+      "loanAmount": 64300,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 150
+    },
+    {
+      "dueDate": "2024-02-15",
+      "loanAmount": 63110,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 151
+    },
+    {
+      "dueDate": "2024-03-15",
+      "loanAmount": 61920,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 152
+    },
+    {
+      "dueDate": "2024-04-15",
+      "loanAmount": 60730,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 153
+    },
+    {
+      "dueDate": "2024-05-15",
+      "loanAmount": 59540,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 154
+    },
+    {
+      "dueDate": "2024-06-15",
+      "loanAmount": 58350,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 155
+    },
+    {
+      "dueDate": "2024-07-15",
+      "loanAmount": 57160,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 156
+    },
+    {
+      "dueDate": "2024-08-15",
+      "loanAmount": 55970,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 157
+    },
+    {
+      "dueDate": "2024-09-15",
+      "loanAmount": 54780,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 158
+    },
+    {
+      "dueDate": "2024-10-15",
+      "loanAmount": 53590,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 159
+    },
+    {
+      "dueDate": "2024-11-15",
+      "loanAmount": 52400,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 160
+    },
+    {
+      "dueDate": "2024-12-15",
+      "loanAmount": 51210,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 161
+    },
+    {
+      "dueDate": "2025-01-15",
+      "loanAmount": 50020,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 162
+    },
+    {
+      "dueDate": "2025-02-15",
+      "loanAmount": 48830,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 163
+    },
+    {
+      "dueDate": "2025-03-15",
+      "loanAmount": 47640,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 164
+    },
+    {
+      "dueDate": "2025-04-15",
+      "loanAmount": 46450,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 165
+    },
+    {
+      "dueDate": "2025-05-15",
+      "loanAmount": 45260,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 166
+    },
+    {
+      "dueDate": "2025-06-15",
+      "loanAmount": 44070,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 167
+    },
+    {
+      "dueDate": "2025-07-15",
+      "loanAmount": 42880,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 168
+    },
+    {
+      "dueDate": "2025-08-15",
+      "loanAmount": 41690,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 169
+    },
+    {
+      "dueDate": "2025-09-15",
+      "loanAmount": 40500,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 170
+    },
+    {
+      "dueDate": "2025-10-15",
+      "loanAmount": 39310,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 171
+    },
+    {
+      "dueDate": "2025-11-15",
+      "loanAmount": 38120,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 172
+    },
+    {
+      "dueDate": "2025-12-15",
+      "loanAmount": 36930,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 173
+    },
+    {
+      "dueDate": "2026-01-15",
+      "loanAmount": 35740,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 174
+    },
+    {
+      "dueDate": "2026-02-15",
+      "loanAmount": 34550,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 175
+    },
+    {
+      "dueDate": "2026-03-15",
+      "loanAmount": 33360,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 176
+    },
+    {
+      "dueDate": "2026-04-15",
+      "loanAmount": 32170,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 177
+    },
+    {
+      "dueDate": "2026-05-15",
+      "loanAmount": 30980,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 178
+    },
+    {
+      "dueDate": "2026-06-15",
+      "loanAmount": 29790,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 179
+    },
+    {
+      "dueDate": "2026-07-15",
+      "loanAmount": 28600,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 180
+    },
+    {
+      "dueDate": "2026-08-15",
+      "loanAmount": 27410,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 181
+    },
+    {
+      "dueDate": "2026-09-15",
+      "loanAmount": 26220,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 182
+    },
+    {
+      "dueDate": "2026-10-15",
+      "loanAmount": 25030,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 183
+    },
+    {
+      "dueDate": "2026-11-15",
+      "loanAmount": 23840,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 184
+    },
+    {
+      "dueDate": "2026-12-15",
+      "loanAmount": 22650,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 185
+    },
+    {
+      "dueDate": "2027-01-15",
+      "loanAmount": 21460,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 186
+    },
+    {
+      "dueDate": "2027-02-15",
+      "loanAmount": 20270,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 187
+    },
+    {
+      "dueDate": "2027-03-15",
+      "loanAmount": 19080,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 188
+    },
+    {
+      "dueDate": "2027-04-15",
+      "loanAmount": 17890,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 189
+    },
+    {
+      "dueDate": "2027-05-15",
+      "loanAmount": 16700,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 190
+    },
+    {
+      "dueDate": "2027-06-15",
+      "loanAmount": 15510,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 191
+    },
+    {
+      "dueDate": "2027-07-15",
+      "loanAmount": 14320,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 192
+    },
+    {
+      "dueDate": "2027-08-15",
+      "loanAmount": 13130,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 193
+    },
+    {
+      "dueDate": "2027-09-15",
+      "loanAmount": 11940,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 194
+    },
+    {
+      "dueDate": "2027-10-15",
+      "loanAmount": 10750,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 195
+    },
+    {
+      "dueDate": "2027-11-15",
+      "loanAmount": 9560,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 196
+    },
+    {
+      "dueDate": "2027-12-15",
+      "loanAmount": 8370,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 197
+    },
+    {
+      "dueDate": "2028-01-15",
+      "loanAmount": 7180.000000000001,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 198
+    },
+    {
+      "dueDate": "2028-02-15",
+      "loanAmount": 5990.000000000001,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 199
+    },
+    {
+      "dueDate": "2028-03-15",
+      "loanAmount": 4800.000000000001,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 200
+    },
+    {
+      "dueDate": "2028-04-15",
+      "loanAmount": 3610.000000000001,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 201
+    },
+    {
+      "dueDate": "2028-05-15",
+      "loanAmount": 2420.000000000001,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 202
+    },
+    {
+      "dueDate": "2028-06-15",
+      "loanAmount": 1230.000000000001,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 203
+    },
+    {
+      "dueDate": "2028-07-15",
+      "loanAmount": 40.00000000000102,
+      "interestAmount": 666.6666666666666,
+      "emiamount": 1856.6666666666665,
+      "emiid": 204
+    }
+  ]
+}
